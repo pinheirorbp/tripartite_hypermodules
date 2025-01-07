@@ -1,0 +1,140 @@
+Species,Genus,Family,Order,Kingdom
+Acer_campestre,Acer,Sapindaceae ,Sapindales,Plantae
+Acer_platanoides,Acer,Sapindaceae ,Sapindales,Plantae
+Acer_pseudoplatanus,Acer,Sapindaceae ,Sapindales,Plantae
+Achillea_millefolium,Achillea,Asteraceae ,Asterales,Plantae
+Alopecurus_myosuroides,Alopecurus,Poaceae ,Poales,Plantae
+Angelica_sylvestris,Angelica,Apiaceae ,Apiales,Plantae
+Anthriscus_sylvestris,Anthriscus,Apiaceae ,Apiales,Plantae
+Apium_nodiflorum,Apium,Apiaceae ,Apiales,Plantae
+Arctium_sp,Arctium,Asteraceae ,Asterales,Plantae
+Arrhenatherum_elatius,Arrhenatherum,Poaceae ,Poales,Plantae
+Asteracae_unknown,,Asteraceae ,Asterales,Plantae
+Atriplex_patula,Atriplex,Amaranthaceae ,Caryophyllales ,Plantae
+Avena_spp,Avena,Poaceae ,Poales,Plantae
+Brachypodium_sylvaticum,Brachypodium,Poaceae ,Poales,Plantae
+Brassica_juncea,Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_napus_sp,Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_nigra,Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_oleracea_(Acephala_group),Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_oleracea_(Italica_Group),Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_rapa_sp,Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_sp,Brassica,Brassicaceae ,Brassicales ,Plantae
+Brassica_unknown,Brassica,Brassicaceae ,Brassicales ,Plantae
+Bryonia_dioica,Bryonia,Cucurbitaceae ,Cucurbitales ,Plantae
+Calystegia_sepium,Calystegia,Convolvulaceae ,Solanales ,Plantae
+Cannabis_sativa,Cannabis,Cannabaceae ,Rosales,Plantae
+Capsella_bursa-pastoris,Capsella,Brassicaceae ,Brassicales ,Plantae
+Carduus_sp,Carduus,Asteraceae ,Asterales,Plantae
+Carpinus_betulus,Carpinus,Betulaceae ,Fagales,Plantae
+Cerastium_fontanum,Cerastium,Caryophyllaceae,Caryophyllales ,Plantae
+Cerastium_glomeratum,Cerastium,Caryophyllaceae,Caryophyllales ,Plantae
+Cerastium_sp,Cerastium,Caryophyllaceae,Caryophyllales ,Plantae
+Chenopodium_album,Chenopodium,Amaranthaceae ,Caryophyllales ,Plantae
+Chenopodium_polyspermum,Chenopodium,Amaranthaceae ,Caryophyllales ,Plantae
+Cirsium_arvense,Cirsium,Asteraceae ,Asterales,Plantae
+Cirsium_sp,Cirsium,Asteraceae ,Asterales,Plantae
+Cirsium_vulgare,Cirsium,Asteraceae ,Asterales,Plantae
+Clematis_vitalba,Clematis,Ranunculaceae ,Ranunculales ,Plantae
+Convolvulus_arvensis,Convolvulus,Convolvulaceae ,Solanales ,Plantae
+Cornus_sanguinea,Cornus,Cornaceae ,Cornales ,Plantae
+Coronopus_squamatus,Coronopus,Brassicaceae ,Brassicales ,Plantae
+Corylus_avellana,Corylus,Betulaceae ,Fagales,Plantae
+Crataegus_monogyna,Crataegus,Rosaceae,Rosales,Plantae
+Cynara_scolymus,Cynara,Asteraceae ,Asterales,Plantae
+Dactylis_glomerata,Dactylis,Poaceae ,Poales,Plantae
+Euonymus_europaeus,Euonymus,Celastraceae ,Celastrales ,Plantae
+Fagus_sylvatica,Fagus,Fagaceae ,Fagales ,Plantae
+Fraxinus_excelsior,Fraxinus,Oleaceae ,Lamiales,Plantae
+Galeopsis_tetrahit,Galeopsis,Lamiaceae ,Lamiales,Plantae
+Galium_aparine,Galium,Rubiaceae ,Gentianales ,Plantae
+Geranium_dissectum,Geranium,Geraniaceae ,Geraniales ,Plantae
+Geranium_robertianum,Geranium,Geraniaceae ,Geraniales ,Plantae
+Geum_rivale,Geum,Rosaceae ,Rosales,Plantae
+Geum_urbanum,Geum,Rosaceae ,Rosales,Plantae
+Glechoma_hederacea,Glechoma,Lamiaceae ,Lamiales,Plantae
+Grass_unknown,NA,NA,NA,Plantae
+Heracleum_sphondylium,Heracleum,Apiaceae ,Apiales,Plantae
+Holcus_lanatus,Holcus,Poaceae ,Poales,Plantae
+Hordeum_vulgare,Hordeum,Poaceae ,Poales,Plantae
+Hypericum_perforatum,Hypericum,Hypericaceae ,Malpighiales ,Plantae
+Ilex_aquifolium,Ilex,Aquifoliaceae ,Aquifoliales ,Plantae
+Juglans_regia,Juglans,Juglandaceae ,Fagales ,Plantae
+Kickxia_spuria,Kickxia,Plantaginaceae ,Lamiales,Plantae
+Lamiastrum_galeobdolon,Lamiastrum,Lamiaceae ,Lamiales,Plantae
+Lamium_album,Lamium,Lamiaceae ,Lamiales,Plantae
+Lamium_purpureum,Lamium,Lamiaceae ,Lamiales,Plantae
+Lamium_sp,Lamium,Lamiaceae ,Lamiales,Plantae
+Lapsana_communis,Lapsana,Asteraceae ,Asterales,Plantae
+Lathyrus_sp,Lathyrus,Fabaceae,Fabales,Plantae
+Leucanthemum_vulgare,Leucanthemum,Asteraceae ,Asterales,Plantae
+Ligustrum_vulgare,Ligustrum,Oleaceae ,Lamiales,Plantae
+Lolium_multiflorum,Lolium,Poaceae ,Poales,Plantae
+Lolium_perenne,Lolium,Poaceae ,Poales,Plantae
+Lonicera_periclymenum,Lonicera,Caprifoliaceae ,Dipsacales ,Plantae
+Lupinus_sp,Lupinus,Fabaceae,Fabales,Plantae
+Malus_sp,Malus,Rosaceae,Rosales,Plantae
+Malus_sylvestris,Malus,Rosaceae,Rosales,Plantae
+Medicago_sativa,Medicago,Fabaceae,Fabales,Plantae
+Mercurialis_perennis,Mercurialis,Euphorbiaceae ,Malpighiales ,Plantae
+Myosotis_arvensis,Myosotis,Boraginaceae ,Boraginales ,Plantae
+Papaver_rhoeas,Papaver,Papaveraceae ,Ranunculales ,Plantae
+Phyllitis_scolopendrium,Phyllitis,Aspleniaceae ,Polypodiales ,Plantae
+Plantago_major,Plantago,Plantaginaceae ,Lamiales,Plantae
+Poa_annua,Poa,Poaceae ,Poales,Plantae
+Poa_trivialis,Poa,Poaceae ,Poales,Plantae
+Polygonum_aviculare,Polygonum,Polygonaceae ,Caryophyllales ,Plantae
+Potentilla_reptans,Potentilla,Rosaceae,Rosales,Plantae
+Primula_vulgaris,Primula,Primulaceae ,Ericales,Plantae
+Prunus_avium,Prunus,Rosaceae,Rosales,Plantae
+Prunus_cerasifera,Prunus,Rosaceae,Rosales,Plantae
+Prunus_sp,Prunus,Rosaceae,Rosales,Plantae
+Prunus_spinosa,Prunus,Rosaceae,Rosales,Plantae
+Pteridium_aquilinum,Pteridium,Dennstaedtiaceae ,Polypodiales ,Plantae
+Quercus_robur,Quercus,Fagaceae ,Fagales,Plantae
+Ranunculus_acris,Ranunculus,Ranunculaceae ,Ranunculales ,Plantae
+Ranunculus_ficaria,Ranunculus,Ranunculaceae ,Ranunculales ,Plantae
+Ranunculus_repens,Ranunculus,Ranunculaceae ,Ranunculales ,Plantae
+Ranunculus_sp,Ranunculus,Ranunculaceae ,Ranunculales ,Plantae
+Raphanus_raphanistrum,Raphanus,Brassicaceae ,Brassicales ,Plantae
+Rhamnus_cathartica,Rhamnus,Rhamnaceae ,Rosales,Plantae
+Rosa_sp,Rosa,Rosaceae,Rosales,Plantae
+Rubus_fruticosus,Rubus,Rosaceae,Rosales,Plantae
+Rumex_acetosa,Rumex,Polygonaceae ,Caryophyllales ,Plantae
+Rumex_spp,Rumex,Polygonaceae ,Caryophyllales ,Plantae
+Salix_sp,Salix,Salicaceae ,Malpighiales ,Plantae
+Sambucus_nigra,Sambucus,Viburnaceae ,Dipsacales ,Plantae
+Secale_cereale,Secale,Poaceae ,Poales,Plantae
+Senecio_jacobaea,Senecio,Asteraceae ,Asterales,Plantae
+Senecio_vulgaris,Senecio,Asteraceae ,Asterales,Plantae
+Silene_dioica,Silene,Caryophyllaceae ,Caryophyllales ,Plantae
+Silene_sp,Silene,Caryophyllaceae ,Caryophyllales ,Plantae
+Sinapis_arvensis,Sinapis,Brassicaceae ,Brassicales ,Plantae
+Solanum_dulcamara,Solanum,Solanaceae ,Solanales ,Plantae
+Sonchus_arvensis,Sonchus,Asteraceae ,Asterales,Plantae
+Sonchus_asper,Sonchus,Asteraceae ,Asterales,Plantae
+Sonchus_oleraceus,Sonchus,Asteraceae ,Asterales,Plantae
+Stachys_sylvatica,Stachys,Lamiaceae ,Lamiales,Plantae
+Stellaria_graminea,Stellaria,Caryophyllaceae ,Caryophyllales ,Plantae
+Stellaria_media,Stellaria,Caryophyllaceae ,Caryophyllales ,Plantae
+Taraxacum_spp,Taraxacum,Asteraceae ,Asterales,Plantae
+Taxus_baccata,Taxus,Taxaceae ,Pinales,Plantae
+Tilia_vulgaris/europaea,Tilia,Malvaceae ,Malvales,Plantae
+Trifolium_pratense,Trifolium,Fabaceae ,Fabales,Plantae
+Trifolium_repens,Trifolium,Fabaceae ,Fabales,Plantae
+Trifolium_spp,Trifolium,Fabaceae ,Fabales,Plantae
+Triticum_sp,Triticum,Poaceae ,Poales,Plantae
+ukP39,NA,NA,NA,Plantae
+Ulmus_procera,Ulmus,Ulmaceae ,Rosales,Plantae
+Urtica_dioica,Urtica,Urticaceae ,Rosales,Plantae
+Valeriana_officinalis,Valeriana,Caprifoliaceae ,Dipsacales ,Plantae
+Veronica_montana,Veronica,Plantaginaceae ,Lamiales,Plantae
+Veronica_persica,Veronica,Plantaginaceae ,Lamiales,Plantae
+Veronica_serpyllifolia,Veronica,Plantaginaceae ,Lamiales,Plantae
+Viburnum_lantana,Viburnum,Viburnaceae ,Dipsacales ,Plantae
+Vicia_faba,Vicia,Fabaceae,Fabales,Plantae
+Vicia_sativa,Vicia,Fabaceae,Fabales,Plantae
+Vicia_sepium,Vicia,Fabaceae,Fabales,Plantae
+Viola_sp,Viola,Violaceae ,Malpighiales ,Plantae
+X_Triticosecale,X_Triticosecale,Poaceae ,Poales,Plantae
+Zea_mays,Zea,Poaceae ,Poales,Plantae

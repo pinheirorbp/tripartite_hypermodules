@@ -1,0 +1,32 @@
+Species,Genus,Family,Order,Kingdom
+Calluna_vulgaris,Calluna,Ericaceae,Ericales,Plantae
+Carex_viridula,Carex,Cyperaceae ,Poales,Plantae
+Carex_vulcani,Carex,Cyperaceae ,Poales,Plantae
+Centaurium_erythraea,Centaurium,Gentianaceae ,Gentianales ,Plantae
+Clethra_arborea,Clethra,Clethraceae ,Ericales,Plantae
+Conyza_bonariensis,Conyza,Asteraceae ,Asterales,Plantae
+Erigeron_karvinskianus,Erigeron,Asteraceae ,Asterales,Plantae
+Hedera_azorica,Hedera,Araliaceae ,Apiales,Plantae
+Hedychium_gardneranum,Hedychium,Zingiberaceae ,Zingiberales ,Plantae
+Holcus_lanatus,Holcus,Poaceae,Poales,Plantae
+Ilex_perado,Ilex,Aquifoliaceae ,Aquifoliales ,Plantae
+Juncus_effusus,Juncus,Juncaceae ,Poales,Plantae
+Juniperus_brevifolia,Juniperus,Cupressaceae ,Pinales,Plantae
+Kyllinga_brevifolia,Kyllinga,Cyperaceae ,Poales,Plantae
+Laurus_azorica,Laurus,Lauraceae ,Laurales,Plantae
+Leycesteria_formosa,Leycesteria,Caprifoliaceae ,Dipsacales ,Plantae
+Lysimachia_azorica,Lysimachia,Primulaceae ,Ericales,Plantae
+Mentha_pulegium,Mentha,Lamiaceae ,Lamiales,Plantae
+Myrsine_africana,Myrsine,Primulaceae ,Ericales,Plantae
+Paspalum_dilatatum,Paspalum,Poaceae ,Poales,Plantae
+Persicaria_capitata,Persicaria,Polygonaceae ,Caryophyllales ,Plantae
+Potentilla_erecta,Potentilla,Rosaceae ,Rosales,Plantae
+Prunella_vulgaris,Prunella,Lamiaceae ,Lamiales,Plantae
+Prunus_lusitanica,Prunus,Rosaceae ,Rosales,Plantae
+Rubus_ulmifolius,Rubus,Rosaceae ,Rosales,Plantae
+Rumex_crispus,Rumex,Polygonaceae ,Caryophyllales ,Plantae
+Scrophularia_auriculata,Scrophularia,Scrophulariaceae ,Lamiales ,Plantae
+Sonchus_tenerrimus,Sonchus,Asteraceae ,Asterales ,Plantae
+Trifolium_repens,Trifolium,Fabaceae ,Fabales ,Plantae
+Vaccinium_cylindraceum,Vaccinium,Ericaceae ,Ericales,Plantae
+Viburnum_tinus,Viburnum,Viburnaceae ,Dipsacales ,Plantae
